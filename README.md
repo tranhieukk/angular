@@ -1,15 +1,17 @@
 # angular
 Study angular in 3 month
 #Plan
-+Month_1: Simple
--Week_1
-Install
-Shell cmd
-Component
-Class
-Object
-Format
-Edit
+<h3>Month_1: Simple</h3>
+<h4>Week_1: Tutorial<h4>
+<p>
+1Install
+2Shell cmd
+3Component
+4Class
+5Object
+6Format
+7Edit
+<p>
 AppModule
 -Week_2
 -Week_3
